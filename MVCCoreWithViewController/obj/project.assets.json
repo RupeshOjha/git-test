@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\Docker\\CODE LAB\\MVCCoreWithViewController\\MVCCoreWithViewController\\MVCCoreWithViewController.csproj",
+      "projectUniqueName": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\GIT\\CODE LAB\\MVCCoreWithViewController\\git-test\\MVCCoreWithViewController\\MVCCoreWithViewController.csproj",
       "projectName": "MVCCoreWithViewController",
-      "projectPath": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\Docker\\CODE LAB\\MVCCoreWithViewController\\MVCCoreWithViewController\\MVCCoreWithViewController.csproj",
+      "projectPath": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\GIT\\CODE LAB\\MVCCoreWithViewController\\git-test\\MVCCoreWithViewController\\MVCCoreWithViewController.csproj",
       "packagesPath": "C:\\Users\\rupes\\.nuget\\packages\\",
-      "outputPath": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\Docker\\CODE LAB\\MVCCoreWithViewController\\MVCCoreWithViewController\\obj\\",
+      "outputPath": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\GIT\\CODE LAB\\MVCCoreWithViewController\\git-test\\MVCCoreWithViewController\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rupes\\AppData\\Roaming\\NuGet\\NuGet.Config",

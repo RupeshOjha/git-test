@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "loPxMnE9mwez2TC7nqZcxVUyBCbvVmgFUvtwIpoAQtNFoP71vSs1vjtjFBCyjkf/+aRuuMoOPD5/wlF5qq4Nrg==",
+  "dgSpecHash": "ivIMnopTb2wnZmMOv5A1bmMLvMgPCMhX/1Kfv+A3+gy9at+bfC/FrGj8RNk4rmEVt/1svd+z5rvY299V3heduQ==",
   "success": true,
-  "projectFilePath": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\Docker\\CODE LAB\\MVCCoreWithViewController\\MVCCoreWithViewController\\MVCCoreWithViewController.csproj",
+  "projectFilePath": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\GIT\\CODE LAB\\MVCCoreWithViewController\\git-test\\MVCCoreWithViewController\\MVCCoreWithViewController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rupes\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],

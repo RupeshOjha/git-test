@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCCoreWithViewController
 build_property.RootNamespace = MVCCoreWithViewController
-build_property.ProjectDir = C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\
+build_property.ProjectDir = C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\GIT\CODE LAB\MVCCoreWithViewController\git-test\MVCCoreWithViewController\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController
+build_property.MSBuildProjectDirectory = C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\GIT\CODE LAB\MVCCoreWithViewController\git-test\MVCCoreWithViewController
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Pages/Error.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Pages/Index.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Pages/Privacy.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Pages/_ViewImports.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Pages/_ViewStart.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Views/Home/Index.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Views/_ViewStart.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Pages/Shared/_Layout.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zwf1brmj95
 
-[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/Docker/CODE LAB/MVCCoreWithViewController/MVCCoreWithViewController/Views/Shared/_Layout.cshtml]
+[C:/RupeshOjha/LEARNING HUB/TOOLS & TECHNOLOGY/GIT/CODE LAB/MVCCoreWithViewController/git-test/MVCCoreWithViewController/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vx49lxyrqg
