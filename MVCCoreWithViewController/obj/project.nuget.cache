@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "loPxMnE9mwez2TC7nqZcxVUyBCbvVmgFUvtwIpoAQtNFoP71vSs1vjtjFBCyjkf/+aRuuMoOPD5/wlF5qq4Nrg==",
+  "success": true,
+  "projectFilePath": "C:\\RupeshOjha\\LEARNING HUB\\TOOLS & TECHNOLOGY\\Docker\\CODE LAB\\MVCCoreWithViewController\\MVCCoreWithViewController\\MVCCoreWithViewController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rupes\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

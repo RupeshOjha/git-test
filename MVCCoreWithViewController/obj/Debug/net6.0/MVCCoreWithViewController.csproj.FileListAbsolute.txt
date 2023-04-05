@@ -1,0 +1,54 @@
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\appsettings.Development.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\appsettings.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.staticwebassets.runtime.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.exe
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.deps.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.runtimeconfig.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.dll
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.pdb
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.csproj.AssemblyReference.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.GeneratedMSBuildEditorConfig.editorconfig
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.AssemblyInfoInputs.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.AssemblyInfo.cs
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.csproj.CoreCompileInputs.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.MvcApplicationPartsAssemblyInfo.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.RazorAssemblyInfo.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.RazorAssemblyInfo.cs
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\staticwebassets.build.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\staticwebassets.development.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\bundle\MVCCoreWithViewController.styles.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\projectbundle\MVCCoreWithViewController.bundle.scp.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.dll
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\refint\MVCCoreWithViewController.dll
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.pdb
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.genruntimeconfig.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\ref\MVCCoreWithViewController.dll
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\MVC Core\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\appsettings.Development.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\appsettings.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.staticwebassets.runtime.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.exe
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.deps.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.runtimeconfig.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.dll
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\bin\Debug\net6.0\MVCCoreWithViewController.pdb
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.csproj.AssemblyReference.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.GeneratedMSBuildEditorConfig.editorconfig
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.AssemblyInfoInputs.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.AssemblyInfo.cs
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.csproj.CoreCompileInputs.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.MvcApplicationPartsAssemblyInfo.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.RazorAssemblyInfo.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.RazorAssemblyInfo.cs
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\staticwebassets.build.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\staticwebassets.development.json
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\bundle\MVCCoreWithViewController.styles.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\scopedcss\projectbundle\MVCCoreWithViewController.bundle.scp.css
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.dll
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\refint\MVCCoreWithViewController.dll
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.pdb
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\MVCCoreWithViewController.genruntimeconfig.cache
+C:\RupeshOjha\LEARNING HUB\TOOLS & TECHNOLOGY\Docker\CODE LAB\MVCCoreWithViewController\MVCCoreWithViewController\obj\Debug\net6.0\ref\MVCCoreWithViewController.dll
